@@ -1,6 +1,6 @@
-# The Brand Guessing Game
+# A brand Guessing Game
 
-Brandle is a web-based guessing game built with **Next.js + React + Tailwind + Framer Motion**.
+Brandle is a web-based guessing game built with **React**.
 
 1. You’re shown hints about a famous brand (text + logos).
 2. You have **3 guesses**.
@@ -11,6 +11,6 @@ Brandle is a web-based guessing game built with **Next.js + React + Tailwind + F
 ---
 
 ```bash
-git clone https://github.com/your-username/brandle.git
+git clone https://github.com/Jhay3765/brandle.git
 cd brandle
 ```
